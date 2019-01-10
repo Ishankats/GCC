@@ -36,7 +36,7 @@ h1 {
 }
 
 h1 span {
-	background: #baff00;
+	background: #31c843;
 	padding: 0 10px;
 	color: #222222;
 	display: inline-block;
@@ -93,7 +93,7 @@ ol {
 }
 
 .sp-title span {
-	background: #baff00;
+	background: #31c843;
 	padding: 0 10px;
 	color: #222222;
 	display: inline-block;
@@ -130,7 +130,7 @@ ol {
 .section-title h1,
 .section-title h2 {
 	display: inline-block;
-	background: #baff00;
+	background: #31c843;
 	padding: 0 20px;
 	margin-bottom: 0;
 	font-size: 60px;
@@ -247,8 +247,8 @@ ol {
 }
 
 .site-btn.sb-solid-color {
-	background: #baff00;
-	border-color: #baff00;
+	background: #31c843;
+	border-color: #31c843;
 }
 
 .site-btn.sb-solid-color:after,
@@ -259,12 +259,12 @@ ol {
 .site-btn.sb-solid-dark {
 	background: #222;
 	border-color: #222;
-	color: #baff00;
+	color: #31c843;
 }
 
 .site-btn.sb-solid-dark:after,
 .site-btn.sb-solid-dark:before {
-	background: #baff00;
+	background: #31c843;
 }
 
 .element {
@@ -289,7 +289,7 @@ ol {
 }
 
 .accordion-area .panel-header.active {
-	background: #baff00;
+	background: #31c843;
 }
 
 .accordion-area .panel-header.active .panel-link:after {
@@ -306,7 +306,7 @@ ol {
 	top: 0;
 	height: 100%;
 	width: 50px;
-	background: #baff00;
+	background: #31c843;
 	border: none;
 	cursor: pointer;
 }
@@ -351,7 +351,7 @@ ol {
 }
 
 .tab-element .nav-tabs .nav-link.active {
-	background: #baff00;
+	background: #31c843;
 }
 
 .tab-element .nav-tabs .nav-link.active,
@@ -458,7 +458,7 @@ ol {
 	float: right;
 	display: inline-block;
 	padding: 5px 10px;
-	background: #baff00;
+	background: #31c843;
 	font-weight: 700;
 	letter-spacing: 1px;
 	margin-top: 30px;
@@ -501,7 +501,7 @@ ol {
 	left: 50%;
 	margin-left: 1px;
 	top: 0;
-	background: #baff00;
+	background: #31c843;
 	-webkit-transition: all 0.4s;
 	-o-transition: all 0.4s;
 	transition: all 0.4s;
@@ -519,8 +519,8 @@ ol {
 /*  Hero Section CSS
 /*----------------------------------------*/
 .hero-section {
-	height: 100vh;
-	background: #ededed;
+	height: 102vh;
+	background: #31c843;
 	position: relative;
 }
 
@@ -551,7 +551,7 @@ ol {
 }
 
 .social-links a:hover {
-	color: #baff00;
+	color: #31c843;
 }
 
 .hero-right-text {
@@ -613,7 +613,7 @@ ol {
 
 .hero-slider .owl-nav .owl-prev:hover,
 .hero-slider .owl-nav .owl-next:hover {
-	color: #baff00;
+	color: #31c843;
 }
 
 .hero-slider .owl-nav .owl-prev i {
@@ -645,7 +645,7 @@ ol {
 
 .slide-num-holder span {
 	font-size: 48px;
-	color: #baff00;
+	color: #31c843;
 	position: relative;
 	top: -10px;
 	right: -10px;
@@ -654,7 +654,7 @@ ol {
 .slide-content {
 	margin-left: 0px;
 	margin-bottom: 50px;
-	padding-left: 100px;
+	/* padding-left: 100px; */
 	padding-top: 200px;
 	padding-bottom: 70px;
 	position: relative;
@@ -675,9 +675,9 @@ ol {
 	content: "";
 	height: calc(100% + 50px);
 	width: 330px;
-	/* border-top: 150px solid #baff00;
-	border-left: 150px solid #baff00;
-	border-bottom: 90px solid #baff00; */
+	/* border-top: 150px solid #31c843;
+	border-left: 150px solid #31c843;
+	border-bottom: 90px solid #31c843; */
 	top: 0;
 	left: 0;
 	opacity: 0.73;
@@ -770,7 +770,7 @@ ol {
 }
 
 .service-box:hover .sb-icon {
-	background-color: #baff00;
+	background-color: #31c843;
 }
 
 .service-box:hover .sb-icon .sb-img-icon {
@@ -783,7 +783,7 @@ ol {
 }
 
 .service-box:hover .readmore {
-	background-color: #baff00;
+	background-color: #31c843;
 	padding: 2px 10px;
 }
 
@@ -894,7 +894,7 @@ ol {
 }
 
 .milestone:hover:after {
-	background: #baff00;
+	background: #31c843;
 }
 
 /*----------------------------------------*/
@@ -920,7 +920,7 @@ ol {
 }
 
 .projects-filter-nav li.btn-active {
-	background: #baff00;
+	background: #31c843;
 	color: #222222;
 }
 
@@ -963,7 +963,7 @@ ol {
 }
 
 .projects-slider .single-project .project-content p {
-	color: #baff00;
+	color: #31c843;
 	font-weight: 500;
 	position: relative;
 	top: 40px;
@@ -976,7 +976,7 @@ ol {
 	position: absolute;
 	right: 50px;
 	bottom: 30px;
-	background: #baff00;
+	background: #31c843;
 	font-size: 14px;
 	font-weight: 700;
 	color: #222;
@@ -1029,7 +1029,7 @@ ol {
 
 .projects-slider .owl-nav .owl-prev:hover,
 .projects-slider .owl-nav .owl-next:hover {
-	background: #baff00;
+	background: #31c843;
 }
 
 .projects-slider .owl-nav .owl-prev i {
@@ -1118,7 +1118,7 @@ ol {
 }
 
 .footer-item ul li a:hover {
-	background: #baff00;
+	background: #31c843;
 }
 
 /*----------------------------------------*/
@@ -1136,7 +1136,7 @@ ol {
 
 .page-header-section .header-title span {
 	background: none;
-	color: #baff00;
+	color: #31c843;
 }
 
 /*----------------------------------------*/
@@ -1179,7 +1179,7 @@ ol {
 }
 
 .testimonials-section .qut {
-	color: #baff00;
+	color: #31c843;
 	font-size: 36px;
 	margin-bottom: 20px;
 }
@@ -1193,7 +1193,7 @@ ol {
 .ts-item h4 {
 	font-size: 15px;
 	font-weight: 400;
-	color: #baff00;
+	color: #31c843;
 	margin-bottom: 0;
 }
 
@@ -1240,7 +1240,7 @@ ol {
 }
 
 .team-member:hover .member-info {
-	background: #baff00;
+	background: #31c843;
 	-webkit-box-shadow: 0px 0px 0px rgba(114, 114, 114, 0.21);
 	box-shadow: 0px 0px 0px rgba(114, 114, 114, 0.21);
 }
@@ -1301,7 +1301,7 @@ ol {
 }
 
 .service-slider .owl-dots .owl-dot.active {
-	background: #baff00;
+	background: #31c843;
 }
 
 .service-text h2 {
@@ -1366,7 +1366,7 @@ ol {
 }
 
 .solid-service-box:hover {
-	background: #baff00;
+	background: #31c843;
 }
 
 .solid-service-box:hover h2 {
@@ -1421,7 +1421,7 @@ ol {
 	font-weight: 700;
 	color: #222;
 	display: inline-block;
-	background: #baff00;
+	background: #31c843;
 	padding: 4px 15px;
 	margin-bottom: 20px;
 }
@@ -1454,7 +1454,7 @@ ol {
 }
 
 .blog-post:hover .thumb:after {
-	background: #baff00;
+	background: #31c843;
 }
 
 .pagination {
@@ -1472,7 +1472,7 @@ ol {
 
 .pagination a.active {
 	font-size: 48px;
-	color: #baff00;
+	color: #31c843;
 }
 
 .search {
@@ -1539,7 +1539,7 @@ ol {
 }
 
 .widget-area ul li a:hover {
-	background: #baff00;
+	background: #31c843;
 	color: #222;
 }
 
@@ -1615,7 +1615,7 @@ ol {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #baff00;
+	background: #31c843;
 	opacity: 0;
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
@@ -1864,9 +1864,9 @@ ol {
 	}
 
 	.slide-content:after {
-		border-top: 100px solid #baff00;
-		border-left: 100px solid #baff00;
-		border-bottom: 60px solid #baff00;
+		border-top: 100px solid #31c843;
+		border-left: 100px solid #31c843;
+		border-bottom: 60px solid #31c843;
 	}
 
 	.hero-slider .owl-nav {
